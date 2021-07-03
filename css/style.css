@@ -21,6 +21,10 @@
   width: 120px;
 }
 
+.img {
+  width: 100px;
+}
+
 #logo-brasil {
   position: relative;
   left: 400px;
