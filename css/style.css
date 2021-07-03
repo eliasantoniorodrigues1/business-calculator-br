@@ -72,7 +72,7 @@
           justify-content: space-between;
 }
 
-.thumbnail {
+.thumbnail>img {
   background-color: #074250;
   border: none;
   width: 200px;
